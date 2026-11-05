@@ -1,4 +1,4 @@
-package com.dlebal.androidtechnicaltest.presentation.ui.theme
+package com.dlebal.androidtechnicaltest.presentation.core.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

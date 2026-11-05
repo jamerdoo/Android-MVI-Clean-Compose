@@ -1,4 +1,4 @@
-package com.dlebal.androidtechnicaltest.presentation.ui.theme
+package com.dlebal.androidtechnicaltest.presentation.core.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
